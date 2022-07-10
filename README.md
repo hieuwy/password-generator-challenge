@@ -32,7 +32,7 @@ THEN the password is either displayed in an alert or written to the page
 ## Website
 ![Password Generator](./assets/images/screenshot.png)
 
-[Deployed Password Generator] ()
+[Deployed Password Generator] (https://hieuwy.github.io/password-generator-challenge/)
 
 
 
